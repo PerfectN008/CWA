@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/CoronaTrack/static/css/main.5f361e03.chunk.css",
-    "main.js": "/CoronaTrack/static/js/main.46c30e6d.chunk.js",
-    "main.js.map": "/CoronaTrack/static/js/main.46c30e6d.chunk.js.map",
-    "runtime-main.js": "/CoronaTrack/static/js/runtime-main.c7153ed6.js",
-    "runtime-main.js.map": "/CoronaTrack/static/js/runtime-main.c7153ed6.js.map",
-    "static/css/2.de424728.chunk.css": "/CoronaTrack/static/css/2.de424728.chunk.css",
-    "static/js/2.5ab64b71.chunk.js": "/CoronaTrack/static/js/2.5ab64b71.chunk.js",
-    "static/js/2.5ab64b71.chunk.js.map": "/CoronaTrack/static/js/2.5ab64b71.chunk.js.map",
-    "index.html": "/CoronaTrack/index.html",
-    "precache-manifest.b7b0120668c2e1fcd7c331fd10f67c22.js": "/CoronaTrack/precache-manifest.b7b0120668c2e1fcd7c331fd10f67c22.js",
-    "service-worker.js": "/CoronaTrack/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/CoronaTrack/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/CoronaTrack/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5ab64b71.chunk.js.LICENSE.txt": "/CoronaTrack/static/js/2.5ab64b71.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/CoronaTrack/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CWA/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CWA/static/js/main.9a3635b6.chunk.js",
+    "main.js.map": "/CWA/static/js/main.9a3635b6.chunk.js.map",
+    "runtime-main.js": "/CWA/static/js/runtime-main.1ba93a73.js",
+    "runtime-main.js.map": "/CWA/static/js/runtime-main.1ba93a73.js.map",
+    "static/css/2.de424728.chunk.css": "/CWA/static/css/2.de424728.chunk.css",
+    "static/js/2.5ab64b71.chunk.js": "/CWA/static/js/2.5ab64b71.chunk.js",
+    "static/js/2.5ab64b71.chunk.js.map": "/CWA/static/js/2.5ab64b71.chunk.js.map",
+    "index.html": "/CWA/index.html",
+    "precache-manifest.25ab8e98c6d33ca1b138184fc7b563f6.js": "/CWA/precache-manifest.25ab8e98c6d33ca1b138184fc7b563f6.js",
+    "service-worker.js": "/CWA/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/CWA/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/CWA/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ab64b71.chunk.js.LICENSE.txt": "/CWA/static/js/2.5ab64b71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CWA/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7153ed6.js",
+    "static/js/runtime-main.1ba93a73.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.5ab64b71.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.46c30e6d.chunk.js"
+    "static/js/main.9a3635b6.chunk.js"
   ]
 }
